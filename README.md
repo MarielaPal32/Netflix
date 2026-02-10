@@ -3,6 +3,9 @@
 
 Una aplicación interactiva creada con Streamlit, Pandas y Plotly que explora el catálogo global de Netflix, revelando tendencias sobre directores, actores, países productores y la evolución del contenido a lo largo del tiempo.
 
+🚀 Live app (Streamlit):
+https://netflix-data-story.streamlit.app/
+
 📖 Descripción general
 
 Netflix Data Story busca convertir datos en narrativas visuales.
@@ -112,3 +115,4 @@ README.md                  # Documentación
 
 Mariela Palmieri
 📧 mariela-palmieri@bootcamp-upgrade.hub
+
